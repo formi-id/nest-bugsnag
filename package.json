@@ -8,10 +8,10 @@
     "logger"
   ],
   "type": "git",
-  "url": "https://github.com/vita-mojo/nest-bugsnag",
-  "homepage": "https://github.com/vita-mojo/nest-bugsnag",
+  "url": "https://github.com/formi-id/nest-bugsnag",
+  "homepage": "https://github.com/formi-id/nest-bugsnag",
   "bugs": {
-    "url": "https://github.com/vita-mojo/nest-bugsnag/issues"
+    "url": "https://github.com/formi-id/nest-bugsnag/issues"
   },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
